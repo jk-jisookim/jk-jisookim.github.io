@@ -28,9 +28,12 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
+    https://www.nature.com/articles/s41558-024-01980-w
   {% endfor %}</ul>
+
+
   
-Talks
+Awards and Fellowships
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
