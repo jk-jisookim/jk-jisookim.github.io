@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ======
-* #
 * M.S., Korea Advanced Institute of Science and Technology, 2024
 * B.A., Georgetown University, 2016
+
+
 
 Work experience
 ======
 * Fall 2023: Teaching Assistant
   * Korea Advanced Institute of Science and Technology
   * GFS803 Future Urban Planning & Environmental Analysis
+
 
 
 Publications
@@ -34,12 +36,4 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
