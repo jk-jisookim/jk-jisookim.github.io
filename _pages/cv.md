@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* currently studying 
 * M.S., Korea Advanced Institute of Science and Technology, 2024
 * B.A., Georgetown University, 2016
 
@@ -35,8 +36,5 @@ Publications
   
 Awards and Fellowships
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+  * Do speed cameras discriminate? (2024 April~)
   
