@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* currently studying 
+* currently studying
 * M.S., Korea Advanced Institute of Science and Technology, 2024
 * B.A., Georgetown University, 2016
 
