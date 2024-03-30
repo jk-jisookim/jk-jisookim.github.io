@@ -2,9 +2,9 @@
 title: "Ageing population and green space dynamics for climate change adaptation in Southeast Asia"
 collection: publications
 permalink: /publication/2024-03-29-paper
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-03-29
-venue: 'Journal 1'
+venue: #'Journal 1'
 paperurl: 'https://www.nature.com/articles/s41558-024-01980-w'
 citation: 'Kim, J. & Kim, S.K. (2024). &quot;Ageing population and green space dynamics for climate change adaptation in Southeast Asia.&quot; <i>Nature Climate Change</i>.'
 ---
