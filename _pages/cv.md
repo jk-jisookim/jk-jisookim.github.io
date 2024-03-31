@@ -14,9 +14,8 @@ Education
 * M.S., Korea Advanced Institute of Science and Technology, 2024
 * B.A., Georgetown University, 2016
 
-
-
-
+-----
+======
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
