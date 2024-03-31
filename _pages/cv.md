@@ -31,5 +31,3 @@ Awards and Fellowships
 ======
 * Outstanding Teaching Assistant (2024) 
   * Korea Advanced Institute of Science and Technology
-  * GFS803 Future Urban Planning & Environmental Analysis
-  
