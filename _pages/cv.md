@@ -15,6 +15,8 @@ Education
 * B.A., Georgetown University, 2016
 
 
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -22,9 +24,14 @@ Publications
   {% endfor %}</ul>
 
 
+
+
 Grants
 ======
 * Do speed cameras discriminate? (2024)
+
+
+
   
 Awards and Fellowships
 ======
