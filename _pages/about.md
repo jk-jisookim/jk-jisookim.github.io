@@ -9,11 +9,11 @@ redirect_from:
 
 Page under maintenance
 
----
+-----
 Research Interests
 =========
-----
+
 Climate Justice
 
-----
+
 Climate Change Policy
