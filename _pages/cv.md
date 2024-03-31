@@ -16,15 +16,6 @@ Education
 * B.A., Georgetown University, 2016
 
 
-
-Work experience
-======
-* Fall 2023: Teaching Assistant
-  * Korea Advanced Institute of Science and Technology
-  * GFS803 Future Urban Planning & Environmental Analysis
-
-
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -32,8 +23,13 @@ Publications
   {% endfor %}</ul>
 
 
+Grants
+======
+* Do speed cameras discriminate? (2024)
   
 Awards and Fellowships
 ======
-  * Do speed cameras discriminate? (2024 April~)
+* Outstanding Teaching Assistant (2024) 
+  * Korea Advanced Institute of Science and Technology
+  * GFS803 Future Urban Planning & Environmental Analysis
   
