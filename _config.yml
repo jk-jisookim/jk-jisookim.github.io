@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "HOME"
-title_separator          : "-"
+title_separator          : "          ."
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://jk-jisookim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -222,7 +222,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
