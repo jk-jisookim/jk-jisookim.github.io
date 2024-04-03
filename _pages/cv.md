@@ -13,7 +13,6 @@ Education
 * currently studying @
 * M.S., Korea Advanced Institute of Science and Technology (2022-<b>2024</b>)
 * B.A., Georgetown University (2012-2015)
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
