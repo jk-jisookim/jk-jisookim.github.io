@@ -238,7 +238,7 @@ defaults:
             sitemap: false
   # _teaching
   - scope:
-      path: ""**
+      path: ""
       type: teaching
     values:
       layout: single
