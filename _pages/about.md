@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "JI SOO KIM"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
