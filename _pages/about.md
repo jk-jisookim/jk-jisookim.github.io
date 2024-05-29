@@ -12,6 +12,9 @@ Ji Soo's multicultural upbringing, having lived in Australia and Kuala Lumpur du
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="jisoo-k-472323163" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/jisoo-k-472323163?trk=profile-badge"></a></div>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jisoo-k-472323163" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/jisoo-k-472323163?trk=profile-badge">Jisoo K.</a></div>
+              
               
 
 
