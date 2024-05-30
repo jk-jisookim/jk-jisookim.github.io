@@ -8,24 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* currently studying @
-* M.S., Korea Advanced Institute of Science and Technology (2022-<b>2024</b>)
-* B.A., Georgetown University (2012-2015)
-  
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Grants
-======
-* Do speed cameras discriminate? (2024)
-* Mobility 100 (2024)
-
-Awards and Fellowships
-======
-* Outstanding Teaching Assistant (2024) 
-  * Korea Advanced Institute of Science and Technology
+<embed src="{{ site.baseurl }}/files/CV_2024May.pdf" width="600" height="700" type='application/pdf'> 
