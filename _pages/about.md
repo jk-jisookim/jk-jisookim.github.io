@@ -11,7 +11,7 @@ Jisoo holds a BA from Georgetown University and an MS from Korea Advanced Instit
 Ji Soo's multicultural upbringing, having lived in Australia and Kuala Lumpur during her childhood and grown up in the United States, has influenced her research interests. Her focus extends from exploring the socio-economic implications of environmental policies and the intersection of technology and environmental justice. Her master's thesis was recently published in <a href="https://www.nature.com/articles/s41558-024-01980-w"><i>Nature Climate Change</i></a>. Currently, she is engaged in a project titled <b>"Do speed cameras discriminate?"</b>
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jisookim11" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jisookim11/">Connect with Jisoo on LinkedIn!</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jisookim11" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://linkedin.com/in/jisookim11?trk=profile-badge">Jisoo Kim</a></div>
               
 
 
