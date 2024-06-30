@@ -5,7 +5,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download Jisoo's CV]({{ site.url }}files/CV_2024May.pdf) .
+[Download Jisoo's CV]({{ site.baseurl }}files/CV_2024May.pdf)
+
 
 {% include base_path %}
 
