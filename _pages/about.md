@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Candidate: Jisoo holds a BA from Georgetown University and an MS from Korea Advanced Institute of Science and Technology. With prior roles at a global sensor-rich solution tech company and a think tank under the Korean Ministry, she has honed her skills in remote-sensing-based research and political analysis.
+Jisoo holds a BA from Georgetown University and an MS from Korea Advanced Institute of Science and Technology. With prior roles at a global sensor-rich solution tech company and a think tank under the Korean Ministry, she has honed her skills in remote-sensing-based research and political analysis.
 
 Ji Soo's multicultural upbringing, having lived in Australia and Kuala Lumpur during her childhood and grown up in the United States, has influenced her research interests. Her focus extends from exploring the socio-economic implications of policies and the intersection of technology. She recently published in <a href="https://www.nature.com/articles/s41558-024-01980-w"><i>Nature Climate Change</i></a>.
 
